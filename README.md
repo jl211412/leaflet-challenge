@@ -1,3 +1,3 @@
 # leaflet-challenge
-code from module 15 activities 
-assistance from Charles Quinn
+#code from module 15 activities 
+#assistance from Charles Quinn
